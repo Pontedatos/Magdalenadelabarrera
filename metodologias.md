@@ -19,7 +19,7 @@ El siguiente paso consistía en subir todos los archivos desde la terminal a mi 
 - Ejecutar el comando `git commit .` con el que se “comitean” (llevan a cabo) los cambios
 - Ejecutar el comando `git push` con el que se carga el contenido del repositorio local al remoto, en este caso el de Github.
 - En mi caso, me daba error, pues decía que no había sido posible subir algunas “refs” (Git References) al repositorio remoto. La opción `git pull` –que permite actualizar los contenidos de los repositorios y generalmente me es útil como paso previo al `git push`– en esta ocasión no me servía. Por tanto, para solventar el problema ejecuté el comando `git push -f’
-*Aclaración: `git push -f`es la abreviatura de `git push --force`. Este comando sirve para forzar un push cuando de otro modo git rechazaría tu `git push` porque has cambiado el historial de tu repositorio en tu repositorio de empuje* (Fuente: [Stack Overflow](https://stackoverflow.com/questions/44678942/difference-between-git-push-and-git-push-f)
+*Aclaración: `git push -f`es la abreviatura de `git push --force`. Este comando sirve para forzar un push cuando de otro modo git rechazaría tu `git push` porque has cambiado el historial de tu repositorio en tu repositorio de empuje* (Fuente: [Stack Overflow](https://stackoverflow.com/questions/44678942/difference-between-git-push-and-git-push-f))
 - Para ver que los pasos se han realizado correctamente o conocer el estado del git volvemos a usar el comando `git status`.
 
 ## **README.md**

@@ -64,10 +64,10 @@ Esta red de acceso inalámbrico se compone de 200 puntos de acceso repartidos po
 
 A través del siguiente enlace se accede a un archivo .md con la explicación del último trabajo de la asignatura (pasos llevados a cabo), además de la explicación de cómo crear una web a través de la funcionalidad “Pages” de Github:
 
-- [Metodología de la Práctica Final]
+- [Metodología de la Práctica Final](https://github.com/Pontedatos/magdalena-delabarrera/blob/main/metodologias.md)
 
 El siguiente enlace permite acceder al archivo .md que resume el proceso de aprendizaje y los contenidos impartidos a lo largo del cuatrimestre en la asignatura de Periodismo de Datos:
 
-- [Resumen de lo aprendido en Periodismo de Datos]
+- [Resumen de lo aprendido en Periodismo de Datos](https://github.com/Pontedatos/magdalena-delabarrera/blob/main/resumen.md)
 
 

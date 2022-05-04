@@ -29,9 +29,9 @@ La intención era vincular el repositorio creado online en Github con una carpet
 
 En primer lugar, una vez dentro de la carpeta seleccionada (a la que vamos usando el comando `cd`), copiamos el enlace de nuestro repositorio (botón verde ‘Code’), y copiamos el enlace https que nos muestra. 
 
-Volvemos a la terminal, y escribimos ‘`git clone` enlacerepositorio’. En mi caso, `git clone https://github.com/magdibmassieu/practicas-periodismo-datos` 
+Volvemos a la terminal, y escribimos `git clone enlacerepositorio’`. En mi caso, `git clone https://github.com/magdibmassieu/practicas-periodismo-datos` 
 
-Antes de nada, tenemos que configurar nuestro usuario de GitHub en la terminal para vincular los cambios. Para ello, tenemos que escribir `git config --global user.name nuestrousuario`, y luego `git config --global user.email correogithub`. En mi caso: git config --global user.name magdibmassieu” y `git config --global user.email 10038175@alumnos.uc3m.es`, con el correo de la universidad.
+Antes de nada, tenemos que configurar nuestro usuario de GitHub en la terminal para vincular los cambios. Para ello, tenemos que escribir `git config --global user.name nuestrousuario`, y luego `git config --global user.email correogithub`. En mi caso: `git config --global user.name magdibmassieu` y `git config --global user.email 10038175@alumnos.uc3m.es`, con el correo de la universidad.
 
 Una vez terminado el proceso de configuración, ya podemos empezar a trabajar desde la terminal empleando una serie de comandos propios de git. 
 

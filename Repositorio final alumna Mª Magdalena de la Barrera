@@ -44,6 +44,7 @@ La tercera práctica, por tanto, consistía en reunir todo lo que hemos realizad
 
 - [API Pandas Folium (ipynb)](https://github.com/Pontedatos/magdalena-delabarrera/blob/main/api-pandas-folium.ipynb) 
 
+
 ### Práctica 4
 
 Para esta cuarta práctica, me he valido de los datos en abierto de la [página web del Ayuntamiento de Alcobendas](https://www.alcobendas.org/es/ayuntamiento) para hacer un notebook de Pyhton en el que se analizan y visualizan los datos. Me he centrado en un aspecto relacionado con la toma de medidas para la mejora de la calidad de vida de los ciudadanos. Más concretamente, la instalación de una red de wifi pública. 
@@ -56,6 +57,7 @@ Esta red de acceso inalámbrico se compone de 200 puntos de acceso repartidos po
 
 - [Zonas Wifi pública Alcobendas (ipynbl)](https://github.com/Pontedatos/magdalena-delabarrera/blob/main/practica-4.csv.ipynb) 
 
+
 # Otros documentos requeridos para la Práctica Final
 
 ## Proceso de creación del trabajo final
@@ -67,4 +69,5 @@ A través del siguiente enlace se accede a un archivo .md con la explicación de
 El siguiente enlace permite acceder al archivo .md que resume el proceso de aprendizaje y los contenidos impartidos a lo largo del cuatrimestre en la asignatura de Periodismo de Datos:
 
 - [Resumen de lo aprendido en Periodismo de Datos]
+
 

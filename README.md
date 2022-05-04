@@ -1,4 +1,4 @@
-# Repositorio final con las prácticas realizadas por la alumna **Mª Magdalena de la Barrera Massieu**, en la asignatura de Periodismo de Datos dentro del doble grado de Periodismo y Humanidades en la Universidad Carlos III de Madrid.
+# Repositorio final Mª Magdalena de la Barrera Massieu
 
 ## Practicas de la asignatura de Periodismo de Datos
 

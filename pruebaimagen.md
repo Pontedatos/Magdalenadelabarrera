@@ -1,0 +1,2 @@
+![imagen sequía](https://1.bp.blogspot.com/-An4KD4E7jik/Wx5xqI_RUxI/AAAAAAAADu0/jWi9UeDgG4QbV5g_48aIzZhj3tOvI3n9gCLcBGAs/s1600/INFOGRAFIA%2BDESERTIFICACION%2BY%2BSEQUIA.jpg)
+

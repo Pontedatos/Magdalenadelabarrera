@@ -15,11 +15,9 @@ Este trabajo fue decisivo para la profesión periodística, **sentando las bases
 
 ### **2. ¿Quién fue Florence Nightingale?**
 
-Florence Nightingale (1820-1910) fue una enfermera inglesa, pionera de la enfermería profesional moderna y creadora del primer modelo conceptual de enfermería. Tras la Guerra de Crimea, trabajando en los hospitales se dio cuenta de que las altas tasas de mortalidad de los soldados se debían sobre todo a las malas condiciones sanitarias de los hospitales. Nightingale recabó información y reunió estadísticas sobre mortalidad, introduciendo a su labor la estadística: hacía gráficas, formularios sobre las causas de enfermedad y de muerte... 
+**Florence Nightingale (1820-1910) fue una enfermera inglesa, pionera de la enfermería profesional moderna y creadora del primer modelo conceptual de enfermería**. Tras la Guerra de Crimea, trabajando en los hospitales se dio cuenta de que las altas tasas de mortalidad de los soldados se debían sobre todo a las malas condiciones sanitarias de los hospitales. Nightingale recabó información y reunió estadísticas sobre mortalidad, introduciendo a su labor la estadística: hacía gráficas, formularios sobre las causas de enfermedad y de muerte... 
 
-**Creó el *Diagrama de la Rosa* que, desde el punto de vista estadístico, fue muy novedoso para la época**. En este diagrama se representan tres variables –el tiempo (cada sector es un mes), el número de muertes (el área del sector) y la causa de la muerte (color)– en un momento en que los gráficos más habituales representaban solo una o dos variables.
-
-**Nightingale fue completamente innovadora en la recolección, interpretación y presentación gráfica de las estadísticas descriptivas**. Buscaba facilitar la comprensión de los datos a quienes pudieran tener dificultades con los informes estadísticos tradicionales, convirtiéndose en pionera de la visualización de datos.
+**Nightingale fue completamente innovadora en la recolección, interpretación y presentación gráfica de las estadísticas descriptivas**. Buscaba facilitar la comprensión de los datos a quienes pudieran tener dificultades con los informes estadísticos tradicionales. **Creó el *Diagrama de la Rosa* que, desde el punto de vista estadístico, fue muy novedoso para la época**. En este diagrama se representan tres variables –el tiempo (cada sector es un mes), el número de muertes (el área del sector) y la causa de la muerte (color)– en un momento en que los gráficos más habituales representaban solo una o dos variables.
 
 
 ## **Preguntas Bloque B**

@@ -1,4 +1,4 @@
-# **Examen Final Periodismo de Datos: María Magdalena de la Barrera**
+# **Examen Final Periodismo de Datos - María Magdalena de la Barrera**
 
 # Primera parte: preguntas cortas
 

@@ -57,7 +57,7 @@ Antes de empezar a trazar la ruta hacia el fichero con el que deseamos trabajar,
 
 
 ### **7. ¿Qué se puede hacer para ver el contenido de un archivo de texto?**
-Habría que introducir el comando `TYPE`, que sirve para visualizar el contenido de archivos de texto planos (como los .md). Esto nos permitirá ver el contenido del archivo de texto, pero no editarlo (para lo que tendríamos que recurrir a un editor de texto como nano, por ejemplo). 
+Habría que introducir el comando `TYPE`, que sirve para visualizar el contenido de archivos de texto planos (como los `.md`). Esto nos permitirá ver el contenido del archivo de texto, pero no editarlo (para lo que tendríamos que recurrir a un editor de texto como `nano`, por ejemplo). 
 
 
 # **Segunda parte: pregunta de desarrollo**

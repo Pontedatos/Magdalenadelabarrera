@@ -45,7 +45,7 @@ En algunos casos, se pone exclusivamente el comando, es decir, solo se ejecuta u
 ### **4. ¿Cuál es la versión de Shell qué utilizas?**
 
 La `Shell` tiene varios dialectos posibles. El más común es `bash`, pero, en mi caso, utilizo la versión `zsh`, que es la versión de shell predeterminada actualmente para Mac.
-
+Se puede comprobar qué shell utilizas usando el comando `echo $SHELL`. Al ponerlo me sale: `/bin/zsh`, por lo tanto introduzco otro comando para que me de la versión que tengo en mi ordenador: `$SHELL --version`
 
 ### **5. ¿Cómo verías las variables de entorno de tu shell "PATH"? Escribe su valor también.**
 

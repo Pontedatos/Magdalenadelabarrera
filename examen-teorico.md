@@ -89,7 +89,7 @@ Habría que introducir el comando `TYPE`, que sirve para visualizar el contenido
 
 # **Segunda parte: pregunta de desarrollo**
 
-## ** 1. Qué es el periodismo de datos. Cómo se relaciona con la visualización de datos.**
+## **Qué es el periodismo de datos. Cómo se relaciona con la visualización de datos.**
 
 **El periodismo de datos es el resultado de la propia evolución de la sociedad de la información** –en la que vivimos desde la década de los 60’ y en la que comienzan a darse las primeras manifestaciones del uso de esta nueva manera de hacer periodismo. Su antecedente directo está en el periodismo de precisión, que se define como el uso de métodos de análisis de las ciencias sociales unido al software estadístico y ordenadores, con el fin de construir una historia periodística. En resumen, **se trata de un compendio de elementos fundamentales: periodismo, investigación, datos, aplicaciones informáticas y visualización.**
 

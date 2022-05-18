@@ -48,35 +48,8 @@ La `Shell` tiene varios dialectos posibles. El más común es `bash`, pero, en m
 Se puede comprobar qué shell utilizas usando el comando `echo $SHELL`. Al ponerlo me sale: `/bin/zsh`, por lo tanto introduzco otro comando para que me de la versión que tengo en mi ordenador: `$SHELL --version`
 
 ### **5. ¿Cómo verías las variables de entorno de tu shell "PATH"? Escribe su valor también.**
-
-Utilizo el comando `env`, que sirve para visualizar en pantalla todas las variables de entorno. También podemos utilizar el comando `env | less`, para ver menos, porque son demasiadas variables y a menudo no caben en la pantalla. 
-
-__CFBundleIdentifier=com.apple.Terminal
-TMPDIR=/var/folders/tg/945dj5pd4r9769ghzpgm48f00000gn/T/
-XPC_FLAGS=0x0
-LaunchInstanceID=A281362F-32CD-47D7-8E43-D3D5424E3853
-TERM=xterm-256color
-SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.BJzqtNQ3Rk/Listeners
-SECURITYSESSIONID=186b2
-XPC_SERVICE_NAME=0
-TERM_PROGRAM=Apple_Terminal
-TERM_PROGRAM_VERSION=443
-TERM_SESSION_ID=3AFDFA2B-6B46-4603-8A99-AFAE5A4B31C1
-SHELL=/bin/zsh
-HOME=/Users/magdalenadelabm
-LOGNAME=magdalenadelabm
-USER=magdalenadelabm
-PATH=/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
-SHLVL=1
-PWD=/Users/magdalenadelabm
-OLDPWD=/Users/magdalenadelabm
-HOMEBREW_PREFIX=/opt/homebrew
-HOMEBREW_CELLAR=/opt/homebrew/Cellar
-HOMEBREW_REPOSITORY=/opt/homebrew
-MANPATH=/opt/homebrew/share/man::
-INFOPATH=/opt/homebrew/share/info:
-LANG=es_ES.UTF-8
-_=/usr/bin/env
+Para conocer el valor de la variable `PATH` es necesario introducir el comando `echo $PATH` (como ya sabemos, el símbolo del dólar indica que se trata de una variable). El resultado que me da es:
+/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
 
 ### **6. Cuál es el primer comando que deberías usar en la terminal. Explica tu respuesta.**
 
